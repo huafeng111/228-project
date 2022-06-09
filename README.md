@@ -13,3 +13,7 @@ Please see requirements.txt
 
 ### Instruction of Notebooks
 run final-model-with-facenet-and-vgg.ipynb
+
+### Code Depth
+In our project, we take pretrained VGG Face and FaceNet models but we changed parameters can be trained.\
+Also we figured out a new feature extraction formula to help us improve model performance. 
