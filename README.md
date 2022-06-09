@@ -15,5 +15,5 @@ Please see requirements.txt
 run final-model-with-facenet-and-vgg.ipynb
 
 ### Code Depth
-In our project, we take pretrained VGG Face and FaceNet models but we changed parameters can be trained.\
+In our project, we take pretrained VGG Face and FaceNet models but we changed parameters of both models into trainable parameters to gain better performance.\
 Also we figured out a new feature extraction formula to help us improve model performance. 
