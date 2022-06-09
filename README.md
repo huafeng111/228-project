@@ -9,9 +9,7 @@ Please download the data set from [Northeastern SMILE Lab - Recognizing Faces in
 - Yue Wu, yuw138@ucsd.edu
 
 ### Requirements:
-- python 3.9
-- xxx xx
+Please see requirements.txt
 
 ### Instruction of Notebooks
-
-unfinished
+run final-model-with-facenet-and-vgg.ipynb
